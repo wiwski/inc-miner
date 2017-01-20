@@ -1,0 +1,273 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - modcloth",
+        "totalResults": "6",
+        "searchTerms": "modcloth",
+        "count": 6,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "001235176516091570544:z2abylo6azu"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.271935,
+    "formattedSearchTime": "0.27",
+    "totalResults": "6",
+    "formattedTotalResults": "6"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Plus-size fashion Now In Trend As Just Beautiful Fashion",
+      "htmlTitle": "Plus-size fashion Now In Trend As Just Beautiful Fashion",
+      "link": "https://www.google.com/newsstand/s/posts/CAIiEGz2LtE2iCAYyMFIAfZEVHoqGAgEKg8IACoHCAow2NCfCTChqm8wkcegAQ/Plus-Size+Fashion+Now+In+Trend+As+Just+Beautiful+Fashion",
+      "displayLink": "www.google.com",
+      "snippet": "Oct 10, 2015 ... Reported in the ModCloth blog on October 6, the company ModCloth has retired \ntheir named plus-size labeled section from their website.",
+      "htmlSnippet": "Oct 10, 2015 <b>...</b> Reported in the <b>ModCloth</b> blog on October 6, the company <b>ModCloth</b> has retired <br>\ntheir named plus-size labeled section from their website.",
+      "cacheId": "NWBiOMyhFLAJ",
+      "formattedUrl": "https://www.google.com/.../Plus-Size+Fashion+Now+In+Trend+As+Just+ Beautiful+Fashion",
+      "htmlFormattedUrl": "https://www.google.com/.../Plus-Size+Fashion+Now+In+Trend+As+Just+ Beautiful+Fashion",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "321",
+            "height": "157",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPtkd-xUuoOJuTHdB-MjiImVkDzlsw3Gl6hd5nXm1Pt6XGlIMiFUhHw-U"
+          }
+        ],
+        "metatags": [
+          {
+            "fb:app_id": "164157850314499",
+            "datepublished": "2015-10-10T19:28:37+00:00",
+            "image": "http://cdn.inquisitr.com/wp-content/uploads/2015/10/GettyImages-478092320-Mike-Coppola-cropped-900x440.jpg",
+            "og:type": "article",
+            "og:title": "Plus-Size Fashion Now In Trend As Just Beautiful Fashion",
+            "og:url": "http://www.inquisitr.com/2485883/plus-size-fashion-now-in-trend-as-just-beautiful-fashion/",
+            "og:image": "http://cdn.inquisitr.com/wp-content/uploads/2015/10/GettyImages-478092320-Mike-Coppola-cropped-900x440.jpg",
+            "og:site_name": "The Inquisitr News",
+            "og:description": "Noting that the wording plus-size fashion can be derogatory, many retailers are removing the plus-size label to group larger sizes in standard clothing lines",
+            "og:article:published_time": "2015-10-10T19:28:37+00:00",
+            "og:article:modified_time": "2015-10-10T20:30:38+00:00",
+            "article:author": "https://www.facebook.com/weberlifedesign",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@theinquisitr",
+            "twitter:image:src": "http://cdn.inquisitr.com/wp-content/uploads/2015/10/GettyImages-478092320-Mike-Coppola-cropped-900x440.jpg",
+            "twitter:image:width": "900",
+            "twitter:image:height": "440",
+            "twitter:description": "Noting that the wording plus-size fashion can be derogatory, many retailers are removing the plus-size label to group larger sizes in standard clothing lines",
+            "twitter:creator": "@weberlifedesign",
+            "y_key": "f282393706a5fd85",
+            "handheldfriendly": "True",
+            "viewport": "width=980",
+            "msapplication-tilecolor": "#ed1c24",
+            "msapplication-tileimage": "http://cdn.inquisitr.com/assets/533781/dist/images/logos/inq-win.png",
+            "fb:pages": "71179904752"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://cdn.inquisitr.com/wp-content/uploads/2015/10/GettyImages-478092320-Mike-Coppola-cropped-900x440.jpg"
+          }
+        ],
+        "newsarticle": [
+          {
+            "image": "http://cdn.inquisitr.com/wp-content/uploads/2015/10/GettyImages-478092320-Mike-Coppola-cropped.jpg",
+            "articlesection": "Fashion",
+            "datepublished": "2015-10-10T19:28:37",
+            "headline": "Plus-Size Fashion Now In Trend As Just Beautiful Fashion",
+            "articlebody": "Plus-size fashion was once the only wording available for those women of a larger size seeking the fashion section of their favorite store. Now noting that the wording plus-size fashion can..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Brand New Vintage Limited: ASX:BNV quotes & news - Google ...",
+      "htmlTitle": "Brand New Vintage Limited: ASX:BNV quotes &amp; news - Google ...",
+      "link": "http://www.google.com/finance?cid=674948",
+      "displayLink": "www.google.com",
+      "snippet": "Reverb News - Dec 16, 2016. The Internet Goes IRL at ModCloth's New Store. \nRacked - Jan 5, 2017. How Your Mall Sausage Gets Made in Columbus, Ohio.",
+      "htmlSnippet": "Reverb News - Dec 16, 2016. The Internet Goes IRL at <b>ModCloth&#39;s</b> New Store. <br>\nRacked - Jan 5, 2017. How Your Mall Sausage Gets Made in Columbus, Ohio.",
+      "cacheId": "Gv9bIhP7u0UJ",
+      "formattedUrl": "www.google.com/finance?cid=674948",
+      "htmlFormattedUrl": "www.google.com/finance?cid=674948",
+      "pagemap": {
+        "financialquote": [
+          {
+            "name": "Brand New Vintage Limited",
+            "url": "https://www.google.com/finance?cid=674948",
+            "imageurl": "https://www.google.com/finance/chart?cht=g&q=ASX:BNV&tkr=1&p=1d&enddatetime=2014-07-07T14:51:17Z",
+            "tickersymbol": "BNV",
+            "exchange": "ASX",
+            "exchangetimezone": "Australia/Sydney",
+            "price": "0.020",
+            "pricechange": "0.000",
+            "pricechangepercent": "0.00",
+            "quotetime": "2014-07-07T14:51:17Z",
+            "datasource": "ASX data delayed by 20 mins",
+            "datasourcedisclaimerurl": "//www.google.com/intl/en-US/help/stock_disclaimer.html",
+            "pricecurrency": "AUD"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Email an toàn hon – Báo cáo minh b?ch – Google",
+      "htmlTitle": "Email an toàn hon – Báo cáo minh b?ch – Google",
+      "link": "https://www.google.com/transparencyreport/saferemail/?hl=vi",
+      "displayLink": "www.google.com",
+      "snippet": "Mã hóa email khi chuy?n ti?p. Nhi?u nhà cung c?p d?ch v? email không mã hóa \nthu khi thu du?c chuy?n ti?p. Khi b?n g?i ho?c nh?n email v?i m?t trong nh?ng\n ...",
+      "htmlSnippet": "Mã hóa email khi chuy?n ti?p. Nhi?u nhà cung c?p d?ch v? email không mã hóa <br>\nthu khi thu du?c chuy?n ti?p. Khi b?n g?i ho?c nh?n email v?i m?t trong nh?ng<br>\n&nbsp;...",
+      "cacheId": "tzITkn-aM_QJ",
+      "formattedUrl": "https://www.google.com/transparencyreport/saferemail/?hl=vi",
+      "htmlFormattedUrl": "https://www.google.com/transparencyreport/saferemail/?hl=vi",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "259",
+            "height": "194",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEQrpwHRIHnINRcGFiYvk3nsF6L6cupQOHTdw-FZs4sT9FQX4_8AFcmAq6"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Mã hóa email khi chuy?n ti?p",
+            "twitter:description": "Nhi?u nhà cung c?p d?ch v? email không mã hóa thu khi thu du?c chuy?n ti?p. Khi b?n g?i ho?c nh?n email v?i m?t trong nh?ng nhà cung c?p d?ch v? này, các thu này cung ? tr?ng thái m? d?i v?i nh?ng k? rình mò gi?ng nhu buu thi?p trong thu.",
+            "og:title": "Mã hóa email khi chuy?n ti?p",
+            "og:description": "Nhi?u nhà cung c?p d?ch v? email không mã hóa thu khi thu du?c chuy?n ti?p. Khi b?n g?i ho?c nh?n email v?i m?t trong nh?ng nhà cung c?p d?ch v? này, các thu này cung ? tr?ng thái m? d?i v?i nh?ng k? rình mò gi?ng nhu buu thi?p trong thu.",
+            "twitter:image:src": "https://www.google.com/transparencyreport/saferemail/images/share/saferemail_share_vi.jpg",
+            "twitter:image:width": "600",
+            "twitter:image:height": "450",
+            "og:image": "https://www.google.com/transparencyreport/saferemail/images/share/saferemail_share_vi.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/transparencyreport/saferemail/images/share/saferemail_share_vi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LifeStore Financial Group: OTCMKTS:LSFG quotes & news - Google ...",
+      "htmlTitle": "LifeStore Financial Group: OTCMKTS:LSFG quotes &amp; news - Google ...",
+      "link": "http://www.google.com/finance?cid=665047",
+      "displayLink": "www.google.com",
+      "snippet": "ModCloth goes from web to IRL Portland pop-up. KPTV.com - Jul 5, 2016. \nColoring Outside the Lines. Palm Springs Life - Jul 1, 2016. Caramel Apple Pie \nMuddy ...",
+      "htmlSnippet": "<b>ModCloth</b> goes from web to IRL Portland pop-up. KPTV.com - Jul 5, 2016. <br>\nColoring Outside the Lines. Palm Springs Life - Jul 1, 2016. Caramel Apple Pie <br>\nMuddy&nbsp;...",
+      "cacheId": "934QrNbjEjEJ",
+      "formattedUrl": "www.google.com/finance?cid=665047",
+      "htmlFormattedUrl": "www.google.com/finance?cid=665047",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "272",
+            "height": "186",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-UwENPCO_8iylHnqFFkJ1QeIN8hlBn-6whmZPSBqZ2801ZF1jkZ76jBg"
+          }
+        ],
+        "financialquote": [
+          {
+            "name": "LifeStore Financial Group",
+            "url": "https://www.google.com/finance?cid=665047",
+            "imageurl": "https://www.google.com/finance/chart?cht=g&q=OTCMKTS:LSFG&tkr=1&p=1d&enddatetime=2016-11-23T16:00:00Z",
+            "tickersymbol": "LSFG",
+            "exchange": "OTCMKTS",
+            "exchangetimezone": "America/New_York",
+            "price": "16.75",
+            "pricechange": "0.00",
+            "pricechangepercent": "0.00",
+            "quotetime": "2016-11-23T16:00:00Z",
+            "datasource": "OTCMKTS data delayed by 15 mins",
+            "datasourcedisclaimerurl": "//www.google.com/intl/en-US/help/stock_disclaimer.html",
+            "pricecurrency": "USD"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/finance/getchart?q=LSFG&x=OTCMKTS&p=3d&i=240&ei=SYA3WICOJYi2jAG4iaCgCw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mindteck (India) Ltd: BOM:517344 quotes & news - Google Finance",
+      "htmlTitle": "Mindteck (India) Ltd: BOM:517344 quotes &amp; news - Google Finance",
+      "link": "http://www.google.com/finance?cid=13722993",
+      "displayLink": "www.google.com",
+      "snippet": "Five things to know today, and Modcloth drops advertising from website. \nPittsburgh Business Times - Dec 2, 2016. Akers National Roll Co. may idle part of \nsteel ...",
+      "htmlSnippet": "Five things to know today, and <b>Modcloth</b> drops advertising from website. <br>\nPittsburgh Business Times - Dec 2, 2016. Akers National Roll Co. may idle part of <br>\nsteel&nbsp;...",
+      "cacheId": "eDNpvtfmNEAJ",
+      "formattedUrl": "www.google.com/finance?cid=13722993",
+      "htmlFormattedUrl": "www.google.com/finance?cid=13722993",
+      "pagemap": {
+        "financialquote": [
+          {
+            "name": "Mindteck (India) Ltd",
+            "url": "https://www.google.com/finance?cid=13722993",
+            "imageurl": "https://www.google.com/finance/chart?cht=g&q=BOM:517344&tkr=1&p=1d&enddatetime=2017-01-10T14:15:30Z",
+            "tickersymbol": "517344",
+            "exchange": "BOM",
+            "exchangetimezone": "Asia/Kolkata",
+            "price": "96.00",
+            "pricechange": "0.00",
+            "pricechangepercent": "0.00",
+            "quotetime": "2017-01-10T14:15:30Z",
+            "datasource": "BOM real-time data",
+            "datasourcedisclaimerurl": "//www.google.com/help/stock_disclaimer.html#realtime",
+            "pricecurrency": "INR"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Zodiac Clothing Company Ltd.: BOM:521163 quotes & news ...",
+      "htmlTitle": "Zodiac Clothing Company Ltd.: BOM:521163 quotes &amp; news ...",
+      "link": "http://www.google.com/finance?cid=699732",
+      "displayLink": "www.google.com",
+      "snippet": "The Internet Goes IRL at ModCloth's New Store. Racked - Jan 5, 2017. Panic in \nthe zodiac: astrologers quash fears over 'new' 13th sign. The Guardian - Sep 30,\n ...",
+      "htmlSnippet": "The Internet Goes IRL at <b>ModCloth&#39;s</b> New Store. Racked - Jan 5, 2017. Panic in <br>\nthe zodiac: astrologers quash fears over &#39;new&#39; 13th sign. The Guardian - Sep 30,<br>\n&nbsp;...",
+      "cacheId": "YQTuzDJNpfEJ",
+      "formattedUrl": "www.google.com/finance?cid=699732",
+      "htmlFormattedUrl": "www.google.com/finance?cid=699732",
+      "pagemap": {
+        "financialquote": [
+          {
+            "name": "Zodiac Clothing Company Ltd.",
+            "url": "https://www.google.com/finance?cid=699732",
+            "imageurl": "https://www.google.com/finance/chart?cht=g&q=BOM:521163&tkr=1&p=1d&enddatetime=2017-01-06T15:30:00Z",
+            "tickersymbol": "521163",
+            "exchange": "BOM",
+            "exchangetimezone": "Asia/Kolkata",
+            "price": "178.10",
+            "pricechange": "+2.55",
+            "pricechangepercent": "1.45",
+            "quotetime": "2017-01-06T15:30:00Z",
+            "datasource": "BOM real-time data",
+            "datasourcedisclaimerurl": "//www.google.com/help/stock_disclaimer.html#realtime",
+            "pricecurrency": "INR"
+          }
+        ]
+      }
+    }
+  ]
+}
